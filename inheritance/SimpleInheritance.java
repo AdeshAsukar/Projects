@@ -7,7 +7,7 @@ package com.classes.inheritance;
 
 /**
  *
- * @author Pawan
+ * @author adesh
  */
 class A {
 int i, j;

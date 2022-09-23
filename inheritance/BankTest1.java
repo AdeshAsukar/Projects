@@ -7,7 +7,7 @@ package com.classes.inheritance;
 
 /**
  *
- * @author Pawan
+ * @author adesh
  */
 import java.util.Scanner;
 class Account
